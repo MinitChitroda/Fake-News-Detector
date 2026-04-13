@@ -9,7 +9,7 @@ To run the FakeNews web app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone [<repository_url>](https://github.com/Jain-Moksh/Fake-News-Detector)
+   git clone [<repository_url>](https://github.com/MinitChitroda/Fake-News-Detector)
    ```
 
 2. Navigate to the project directory:
@@ -67,10 +67,5 @@ Feel free to use, modify, and distribute the code for personal or commercial pur
 
 ## Acknowledgments
 
-The FakeNews web app and machine learning models are maintained and engineered by Moksh Jain.
+The FakeNews web app and machine learning models are maintained and engineered by Minit Chitroda.
 
----
-
-For questions or collaboration, contact me at [mokshjaindev@gmail.com](mailto:mokshjaindev@gmail.com).
-
-Copyright (c) 2026 Moksh Jain
